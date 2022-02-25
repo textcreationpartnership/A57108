@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A line of time revealed There is a God in Heaven that revealeth secrets, Dan.2.28. and Psal.25.14. By Henry Revit a lover of Sion, living at the Chequer in Bow-Lane with Mr. Barnes.</title>
+            <author>Revit, Henry.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57108</idno>
+            <idno type="STC">Wing R1204A</idno>
+            <idno type="STC">ESTC R220802</idno>
+            <idno type="EEBO-CITATION">99832188</idno>
+            <idno type="PROQUEST">99832188</idno>
+            <idno type="VID">36660</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36660)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2056:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A line of time revealed There is a God in Heaven that revealeth secrets, Dan.2.28. and Psal.25.14. By Henry Revit a lover of Sion, living at the Chequer in Bow-Lane with Mr. Barnes.</title>
+                  <author>Revit, Henry.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional literature --  Early works to 1800.</term>
+               <term>Time --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36660:1" rendition="simple:additions"/>
+            <p>A Line of Time <hi>REVEALED.</hi>
+            </p>
+            <q>There is a God in Heaven that Re<g ref="char:EOLhyphen"/>vealeth Secrets,
+<bibl>
+                  <hi>Dan.</hi> 2.28. and <hi>Pſal.</hi> 25.14.</bibl>
+            </q>
+            <p>By <hi>Henry Revit</hi> a Lover of Sion, Living at the <hi>Che<g ref="char:EOLhyphen"/>quer</hi> in <hi>Bow-Lane</hi> with Mr. <hi>Barnes.</hi>
+            </p>
+            <p>LONDON, Printed for the Authour, 1699:</p>
+         </div>
+      </front>
+      <body>
+         <div type="biblical_chronology">
+            <pb facs="tcp:36660:2"/>
+            <pb n="3" facs="tcp:36660:2"/>
+            <head>
+               <hi>H. R.'s</hi> Line of Time, Revea<g ref="char:EOLhyphen"/>led to him by the Revealer of Secrets.</head>
+            <epigraph>
+               <q>There is a God in Heaven that Revealeth Secrets.</q>
+               <bibl>
+                  <hi>Dan.</hi> 2.28. and <hi>Pſa.</hi> 25.14.</bibl>
+            </epigraph>
+            <div type="part">
+               <p n="1">1. FRom the Ejection of <hi>Adam</hi> out of Paradice, to the Birth-day of <hi>Chriſt,</hi> 4000 Years, which ended at Day-break, or Light, <hi>Sept.</hi> 12. old Stile; The day after the Aequinox of Autumn.</p>
+               <p n="2">2. From thence to the begin<g ref="char:EOLhyphen"/>ning of the Time; Times, and the dividing of Time, which was the duration of the Reign of the Man of Sin; 437 Years.</p>
+               <p n="3">3. The Time of his Kingdom;
+<pb n="4" facs="tcp:36660:3"/>Or of the Witneſſes Sack-cloth Prophecy: 1260 Days Propheti<g ref="char:EOLhyphen"/>call; which makes 1697 Years. Then his Limited Right to hold &amp; poſſeſs the Riches and Glory he had done, Ended: and All became the Ten Hornes. <hi>Reve:</hi> 17.16. Now he is doing his Myſterious and laſt Work</p>
+               <p n="4">4. The Time of preparation for the New Jeruſalem from thence juſt 30. Years, which will make 17.27 ended at the time before named.</p>
+               <p n="5">5. The binding of Satan; &amp; the Time of the New Jeruſalem for her great Amplitude and Glory 1000 Years: which are Synchro<g ref="char:EOLhyphen"/>nall; And make 2727 Years.</p>
+               <p n="6">6. The ſhort ſpace of Satans liberty after will be 272 Years; &amp;
+<pb n="5" facs="tcp:36660:3"/>neither more, nor leſs. And which will make 1999. Years.</p>
+               <p n="7">7. Then at Day-break or light, Sept: 12. old Stile; will enter the Year of the World. 7000. <hi>An: D.</hi> 3000. here the line of Time ends. And yet neither the Day, nor Hour of Gods Judging and Burn<g ref="char:EOLhyphen"/>ing the World is known hereby.</p>
+               <div type="section">
+                  <p>N. B. 1. By this Line of Time, we may underſtand the Viſion of Dan. And the Revelations, (in good part.)</p>
+                  <p n="2">2. By it we may underſtand, what the <hi>Romiſh Traditions</hi> are.</p>
+                  <p n="3">3. By this we may ſee what is the true ſenſe of the Evening. And the Morning, before the Sun Riſe, be<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:36660:4"/>the fourth, or the fifth day.</p>
+               </div>
+               <closer>Soli Deo laus &amp; gloria.</closer>
+            </div>
+            <div type="part">
+               <q xml:lang="lat">Deus in Monte Videbitur.</q>
+               <p>The Second part, or a Prophecy of what the great God will do here<g ref="char:EOLhyphen"/>after, in this time of preparation or 28 Years yet to come, account<g ref="char:EOLhyphen"/>ing from the Year of our Lord 1697.</p>
+               <p n="1">1. He will bring into the Truth Such as have been Miſlead &amp; are deceived.</p>
+               <p n="2">2. If we will now doe our duty, we ſhall ſee Trading Good, Silver and Gold, plentifull, &amp;c. Bliſs, Peace, and proſperity, for many Generations: And the bleſſings of King <hi>David,</hi> and <hi>Solomon</hi> will be on the Kings of New Sion: And alſo
+<pb n="7" facs="tcp:36660:4"/>the Crown and Miter will (D. D.) be a great bleſſing to the whole Church of Chriſt.</p>
+               <p n="3">3. God will make Tyrants, and Tyrannical Cities, and Nations know his power, and hand, for his Saints Witneſſes, and Martyrs ſake.</p>
+               <p n="4">4. Kings muſt be Nurſing Fa<g ref="char:EOLhyphen"/>thers, and Queens Nurſing Mo<g ref="char:EOLhyphen"/>thers all the World over.</p>
+               <p n="5">5. The Ten Hornes muſt, and will Take away the power, and Do<g ref="char:EOLhyphen"/>minion of the Man of Sin; and the Pſeudopropheteſs, &amp; ſo fulfil <hi>Rev.</hi> 17.16.</p>
+               <p n="6">6. Jews, and Gentiles will Em<g ref="char:EOLhyphen"/>brace the Goſpel: And the Jews muſt return to their own Land.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="8" facs="tcp:36660:5"/>
+            <p>
+               <hi>H. R.'s</hi> Prayer for the perſecuted Wit<g ref="char:EOLhyphen"/>neſſes and Members of Chriſt, in <hi>France</hi> &amp; other places.</p>
+            <p>O Moſt Mercifull and Omnipotent Lord God, Remember thy poor, and perſecuted Witneſſes beyond the Seas: Repair the Ruins and Deſolations which their Enemies have made amongeſt them. Reduce ſuch as are bani<g ref="char:EOLhyphen"/>ſhed, Enlarge thoſe that are Impriſoned; Re<g ref="char:EOLhyphen"/>lieve ſuch as are Impoveriſhed: Strengthen with might in the inward Man, ſuch as are now Martyrs for Religion, as thou O Lord haſt thy Martyrs of Old. Comfort all ſuch as are Comfortleſs, and yet do Endure the ſame for Conſcience ſake; Reſtrain the fury of their cruel Enemies; And ſuffer them not to abuſe thy Saints and Witneſſes as they have bar<g ref="char:EOLhyphen"/>barouſly done, for thy Great Name Sake, and for thy promiſes Sake, in and through Jeſus Chriſt our Lord <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
